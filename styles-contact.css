@@ -60,7 +60,8 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background: url (UPLOAD THE STUFF INSIDE-Copy/images/background_sunset)
+  background: 
+	color: grey;
         center center fixed no-repeat;
     background-size: cover;
     font-family: "helvetica", sans-serif;
